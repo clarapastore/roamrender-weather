@@ -1,0 +1,47 @@
+/* Styles for weather component*/
+
+.weather-container {
+  text-align: center;
+}
+
+.temp {
+  padding-top: 5%;
+}
+
+p {
+  display: inline-block;
+}
+
+.min-max-container {
+  margin-top: 7%;
+}
+
+.min {
+  margin-right: 5%;
+}
+
+.max {
+  margin-left: 5%;
+}
+
+.min span {
+  color: #184A90;
+  font-weight: 600;
+}
+
+.max span {
+  color: #CD4246;
+  font-weight: 600;
+}
+
+.weather-desc {
+  margin-top: 3%;
+}
+
+.weather-desc span {
+  margin-right: 5%;
+}
+
+.weather-desc img {
+  margin-left: 5%;
+}
