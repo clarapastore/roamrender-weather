@@ -11,7 +11,7 @@ For the component to work, add the name of a city in the roam/render component a
 
 `{{[[roam/render]]: ((Fc_Df3sSB)) "amsterdam"}}`
 
-This component also needs you to have an [OpenWeatherMap API key](https://openweathermap.org/api) in order to get the weather data.
+This component also needs you to have an [OpenWeatherMap API key](https://openweathermap.org/api) in order to get the weather data. Once you have the api key, replace `"YOUR_API_KEY"` with the key on line 24 of the core.cljs file.
 
 ## Notes
 
